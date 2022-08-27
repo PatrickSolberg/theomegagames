@@ -38,3 +38,10 @@ yarn-error.log*
 
 # typescript
 *.tsbuildinfo
+
+# turbo
+.turbo
+
+# expo
+.expo
+dist/
